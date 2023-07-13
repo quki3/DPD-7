@@ -1,2 +1,2 @@
-# GNU-LINUX
-Administracion de sistemas
+# DPD-7
+### documentation
